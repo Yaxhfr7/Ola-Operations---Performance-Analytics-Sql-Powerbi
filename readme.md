@@ -1,10 +1,10 @@
-# 🚗 Ola Data Analysis Project — Ride-Sharing Performance Analysis
+#  Ola Data Analysis Project — Ride-Sharing Performance Analysis
 
 _Comprehensive performance analysis of ride-sharing operations to optimize revenue, reduce cancellations, and enhance customer experience using SQL and Power BI._
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
